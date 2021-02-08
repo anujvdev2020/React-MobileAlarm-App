@@ -29,6 +29,7 @@ input {
   text-align: center;
   border: none;
   cursor: pointer;
+    word-wrap: break-word;
 }
 button {
   background: transparent;
