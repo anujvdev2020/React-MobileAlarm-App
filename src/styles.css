@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  font-family: "Titillium Web", sans-serif;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+p {
+  font-size: 1.6rem;
+}
+
+small {
+  font-size: 1.2rem;
+}
+
+.App {
+  margin: 20px auto;
+  text-align: center;
+  background-color: black;
+  color: #bf1a1a;
+  width: 50%;
+}
+input {
+  padding: 5px;
+  background: transparent;
+  color: #bf1a1a;
+  font-size: 1.8rem;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+}
+button {
+  background: transparent;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  color: #bf1a1a;
+  font-size: 1.8rem;
+}
+input:hover {
+  background: #cdcdcdcd;
+}
+button:hover {
+  background: #cdcdcdcd;
+}
